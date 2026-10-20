@@ -7,15 +7,15 @@
 
 ---
 
-## About Me, in Python
-I'm a Computer Science student and open-source enthusiast who loves turning ideas into functional software. From solving algorithmic challenges on LeetCode and HackerRank to contributing to open-source codebases and building web applications, I thrive on continuous learning and clean code.My strongest programming language is 'C'.I'm currently learning Data Structure and Algorithms. I'm always eager to collaborate on impactful tech projects and open-source initiatives.
+## About Me
+I'm a Computer Science student and open-source enthusiast who loves turning ideas into functional software. From solving algorithmic challenges on LeetCode and HackerRank to contributing to open-source codebases and building web applications, I thrive on continuous learning and clean code. My strongest programming language is 'C'. I'm currently learning Data Structure and Algorithms. I'm always eager to collaborate on impactful tech projects and open-source initiatives.
 
 
 ## Education
 
 *BE in Computer Science and Engineering*|
 BMS Institute of Technology and Management, Bengaluru | 2025 to 2029
-|CGPA: 9.65 / 10 (till 2nd semester)
+|**CGPA: 9.65 / 10** (till 2nd semester)
 
 ## Tech Stack
 
@@ -92,7 +92,7 @@ Sure,Keep going! because Every small effort of yours can make a huge change if r
 ---
 
 <details>
-<summary>💡 What I've learned so far (click to open)</summary>
+<summary> What I've learned so far (click to open)</summary>
 
 <br>
 
@@ -106,9 +106,12 @@ Sure,Keep going! because Every small effort of yours can make a huge change if r
 ---
 
 ## Connect
-Open to internship opportunities in Software Development.
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anshika-vishwakarma156"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Open_to-Internship_Opportunities-2ea44f?style=for-the-badge" alt="Internship opportunities in Software Development." />
+</p>
 <p align="center">Thanks for visiting my profile.</p>
