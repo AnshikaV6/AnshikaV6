@@ -7,17 +7,17 @@
 
 ---
 
-## 🧠 About Me, in Python
+## About Me, in Python
 I'm a Computer Science student and open-source enthusiast who loves turning ideas into functional software. From solving algorithmic challenges on LeetCode and HackerRank to contributing to open-source codebases and building web applications, I thrive on continuous learning and clean code.My strongest programming language is 'C'.I'm currently learning Data Structure and Algorithms. I'm always eager to collaborate on impactful tech projects and open-source initiatives.
 
 
-## 🎓 Education
+## Education
 
 *BE in Computer Science and Engineering*|
 BMS Institute of Technology and Management, Bengaluru | 2025 to 2029
 |CGPA: 9.65 / 10 (till 2nd semester)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -39,7 +39,7 @@ BMS Institute of Technology and Management, Bengaluru | 2025 to 2029
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -80,7 +80,7 @@ Sure,Keep going! because Every small effort of yours can make a huge change if r
 
 ---
 
-## 🗺️ My Learning Roadmap
+## My Learning Roadmap
 
 - [x] Python basics (functions, dictionaries, loops)
 - [x] Build my first chatbot 
@@ -105,10 +105,10 @@ Sure,Keep going! because Every small effort of yours can make a huge change if r
 
 ---
 
-## 📫 Let's Connect
-
+## Connect
+Open to internship opportunities in Software Development.
 <p align="center">
   <a href="https://www.linkedin.com/in/anshika-vishwakarma156"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center">⭐ Thanks for stopping by. Every project is a step forward.</p>
+<p align="center">Thanks for visiting my profile.</p>
