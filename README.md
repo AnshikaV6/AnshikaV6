@@ -8,32 +8,14 @@
 ---
 
 ## 🧠 About Me, in Python
+I'm a Computer Science student and open-source enthusiast who loves turning ideas into functional software. From solving algorithmic challenges on LeetCode and HackerRank to contributing to open-source codebases and building web applications, I thrive on continuous learning and clean code.My strongest programming language is 'C'.I'm currently learning Data Structure and Algorithms. I'm always eager to collaborate on impactful tech projects and open-source initiatives.
 
-````python
-class Developer:
-    def __init__(self):
-        self.name = "Anshika Vishwakarma"
-        self.degree = "BE in Computer Science and Engineering"
-        self.languages = ["Python", "C", "HTML", "CSS"]
-        self.strongest_language = "C"
-        self.currently_learning = ["Data Structures and Algorithms"]
-        self.goal = "Software developer and internship-ready by next year"
-        self.fun_fact = "My first chatbot greets you based on the time of day"
-
-    def say_hello(self):
-        return "Thanks for visiting my profile!"
-
-me = Developer()
-print(me.say_hello())
-````
-
----
 
 ## 🎓 Education
 
-*BE in Computer Science and Engineering*
+*BE in Computer Science and Engineering*|
 BMS Institute of Technology and Management, Bengaluru | 2025 to 2029
-CGPA: 9.65 / 10 (till 3rd semester)
+|CGPA: 9.65 / 10 (till 2nd semester)
 
 ## 🛠️ Tech Stack
 
@@ -104,7 +86,7 @@ Sure,Keep going! because Every small effort of yours can make a huge change if r
 - [x] Build my first chatbot 
 - [x] HTML and CSS
 - [x] Build LostLink Smart Match, a web app with a matching algorithm
-- [ ] C programming
+- [x] C programming 
 - [ ] Data structures and algorithms
 
 ---
